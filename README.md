@@ -1,0 +1,1 @@
+# Here I had shared backened of django which help in creating post on Facebook and Pinterest by review(photo+caption+message) of Food Quality through Swiggy/QEats frontend using Facebook Photo Api for facebook post, Pinterest API for pinterest post and clarifai Food Model api for generating captions/tags through food images
